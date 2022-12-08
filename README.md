@@ -21,7 +21,7 @@
  ### Users page
  Through this page, the user can see all users and delete one or more users at the same time, and he can also add a personal picture
 
-![App Screenshot](https://i.imgur.com/liyghfW.png)
+![App Screenshot](https://i.imgur.com/amS7Mc5.png)
  ### Accounts page
  On this page the accounts of all users are displayed
 
