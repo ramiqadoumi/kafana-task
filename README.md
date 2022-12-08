@@ -8,9 +8,9 @@
 - Add new user
 - Add new account
 - Add Credit/Debit Transaction for selected account 
-- Grid view of all users saved on the database (Grid must return 10 records at a time)
-- Grid view of all accounts saved on the database (Grid must return 10 records at a time)
-- Grid view of all transactions saved on the database (Grid must return 10 records at a time)
+- Grid view of all users saved on the database 
+- Grid view of all accounts saved on the database
+- Grid view of all transactions saved on the database 
 - Delete one or more user on the same time
 - Upload user Photo and Save it on Database
 
