@@ -1,5 +1,5 @@
 
-# Kafana Task
+# Kafana Task.
 
 ## Features
 - Login/Logoff
